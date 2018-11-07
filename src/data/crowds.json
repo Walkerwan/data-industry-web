@@ -1,0 +1,64 @@
+[
+  {
+    "crowdName": "A",
+    "combinationMethodToPeer": "union",
+    "combinationMethodInGroup": "union",
+    "selectedTags": [
+      {
+        "title": "男",
+        "parentPath": "/基础信息/人口属性/性别/",
+        "amount": 578797,
+        "checked": true,
+        "tabName": "A",
+        "indexArr": [0, 0, 0, 0]
+      },
+      {
+        "title": "30-34",
+        "parentPath": "/基础信息/人口属性/年龄段/",
+        "amount": 384789,
+        "checked": true,
+        "tabName": "A",
+        "indexArr": [0, 0, 1, 3]
+      },
+      {
+        "title": "在职人员",
+        "parentPath": "/基础信息/人口属性/职业/",
+        "amount": 219752,
+        "checked": true,
+        "tabName": "A",
+        "indexArr": [0, 0, 2, 2]
+      }
+    ]
+  },
+  {
+    "crowdName": "B",
+    "combinationMethodToPeer": "union",
+    "combinationMethodInGroup": "union",
+    "selectedTags": [
+      {
+        "title": "单身好青年",
+        "parentPath": "/基础信息/人口属性/情感状态/",
+        "amount": 3287,
+        "checked": true,
+        "tabName": "B",
+        "indexArr": [0, 0, 3, 2]
+      },
+      {
+        "title": "160-164",
+        "parentPath": "/基础信息/人口属性/身高(cm)/",
+        "amount": 336723,
+        "checked": true,
+        "tabName": "B",
+        "indexArr": [0, 0, 4, 2]
+      },
+      {
+        "title": "60-69",
+        "parentPath": "/基础信息/人口属性/体重(kg)/",
+        "amount": 375359,
+        "checked": true,
+        "tabName": "B",
+        "indexArr": [0, 0, 5, 3]
+      }
+    ]
+  }
+]

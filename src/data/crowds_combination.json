@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "crowdName": "A",
+      "combinationMethodToPeer": "union",
+      "combinationMethodInGroup": "union",
+      "selectedTags": [
+        {
+          "title": "20180721_2893",
+          "amount": "21113730",
+          "checked": true,
+          "tabName": "A",
+          "indexArr": [0, 1]
+        },
+        {
+          "title": "20180720_2893",
+          "amount": "21113730",
+          "checked": true,
+          "tabName": "A",
+          "indexArr": [0, 2]
+        }
+      ]
+    },
+    {
+      "crowdName": "B",
+      "combinationMethodToPeer": "union",
+      "combinationMethodInGroup": "union",
+      "selectedTags": [
+        {
+          "title": "20180722_0250",
+          "amount": "21113730",
+          "checked": true,
+          "tabName": "B",
+          "indexArr": [1, 0]
+        },
+        {
+          "title": "20180721_2884",
+          "amount": "21113730",
+          "checked": true,
+          "tabName": "B",
+          "indexArr": [1, 1]
+        }
+      ]
+    }
+  ]
+]
